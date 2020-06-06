@@ -1,0 +1,22 @@
+.fin-img{
+    margin-top: 22px;
+    width: 200px;
+    height: auto;
+    max-height: 230px;
+}
+
+#main-img{
+    margin: 3px 10%;
+    display: inline-block;
+}
+
+#word{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+@media (min-width: 992px) {
+    #main-img{
+        margin: 3px 10%;
+    }
+ }
